@@ -4,7 +4,7 @@ This is Version 1.0 of the program
 Purpose
 -----------
 
-This is an event organisation application.
+This is a Java event organisation application.
 Organisers have provided you with the following useful information:
 1. Activities start from 9am until lunch is served at 12 noon
 Provided Input
